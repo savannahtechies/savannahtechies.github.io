@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Jarida
-      link: /markdown-examples
+      link: /jarida
    # - theme: alt
    #   text: API 
    #   link: /api-examples
