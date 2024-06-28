@@ -8,7 +8,7 @@ hero:
   tagline: Where the spirit of the savannah meets the future of technology
   actions:
     - theme: brand
-      text: Blogs
+      text: Jarida
       link: /markdown-examples
    # - theme: alt
    #   text: API 
