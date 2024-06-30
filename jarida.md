@@ -9,3 +9,4 @@ footer:
 
 - [Samsung](/Jarida/Samsung)
 - [iPhone](/Jarida/iPhone.md)
+- [Google Pixel](/Jarida/GooglePixel.md)
